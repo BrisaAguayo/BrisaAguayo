@@ -8,7 +8,7 @@ I enjoy turning ideas into functional interfaces. I care about clean code, good 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend**
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -40,7 +40,7 @@ I enjoy turning ideas into functional interfaces. I care about clean code, good 
 
 ---
 
-## 🚀 What I'm building
+## What I'm building
 
 **[musicadd](https://github.com/BrisaAguayo/musicadd)** — A social music platform where users discover, rate and share music. Full stack project with Next.js, TypeScript, Prisma, Neon (PostgreSQL), NextAuth, and MusicBrainz + Spotify APIs.
 
@@ -52,7 +52,7 @@ I enjoy turning ideas into functional interfaces. I care about clean code, good 
 
 ---
 
-## 💼 Experience
+## Experience
 
 **Web Developer** @ More FM 98.9 *(2026 – present)*
 Developing high-fidelity functional prototypes with Next.js, TypeScript and Tailwind CSS. Working in the creative department with user testing workflows and Vercel deployments.
@@ -71,7 +71,7 @@ Developing high-fidelity functional prototypes with Next.js, TypeScript and Tail
 
 ---
 
-## 🌱 Currently learning
+## Currently learning
 
 - Cloud deployment workflows with AWS and Vercel
 - UI/UX principles for frontend development
@@ -82,7 +82,7 @@ Developing high-fidelity functional prototypes with Next.js, TypeScript and Tail
 
 ---
 
-## 📫 Let's connect
+## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
 
