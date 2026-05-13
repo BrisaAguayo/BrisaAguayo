@@ -70,6 +70,14 @@ Developing high-fidelity functional prototypes with Next.js, TypeScript and Tail
 - **IoT & Data visualization** — Simulated an ESP32 microcontroller using Wokwi, built a data pipeline that sent sensor readings to a web dashboard developed with Python and Flask, and visualized the data in Grafana.
 
 ---
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BrisaAguayo&show_icons=true&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=BrisaAguayo&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrisaAguayo&layout=compact&theme=tokyonight&hide_border=true)
+---
 
 ## Currently learning
 
