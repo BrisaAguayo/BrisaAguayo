@@ -88,4 +88,4 @@ Developing high-fidelity functional prototypes with Next.js, TypeScript and Tail
 
 ---
 
-*Building in public. Learning every day. Shipping real code.* 🚀
+
