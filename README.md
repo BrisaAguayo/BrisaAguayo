@@ -59,18 +59,6 @@ Developing high-fidelity functional prototypes with Next.js, TypeScript and Tail
 
 ---
 
-## 🔧 Beyond the stack
-
-- **NLP & AI** — Fine-tuned BETO (Spanish BERT) for binary text classification. Built full ML pipeline: data cleaning, tokenization, training with AdamW and linear scheduler, and model evaluation with accuracy, F1 and confusion matrix.
-
-- **SQL Server** — Three semesters of relational database design, T-SQL queries, stored procedures, triggers and database administration.
-
-- **Cloud & Linux** — Explored cloud computing concepts using AWS EC2, Linux/Ubuntu environments and basic deployment workflows.
-
-- **IoT & Data visualization** — Simulated an ESP32 microcontroller using Wokwi, built a data pipeline that sent sensor readings to a web dashboard developed with Python and Flask, and visualized the data in Grafana.
-
----
-
 ## Currently learning
 
 - Cloud deployment workflows with AWS and Vercel
