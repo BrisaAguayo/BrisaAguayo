@@ -40,18 +40,6 @@ I enjoy turning ideas into functional interfaces. I care about clean code, good 
 
 ---
 
-## What I'm building
-
-**[musicadd](https://github.com/BrisaAguayo/musicadd)** — A social music platform where users discover, rate and share music. Full stack project with Next.js, TypeScript, Prisma, Neon (PostgreSQL), NextAuth, and MusicBrainz + Spotify APIs.
-
-**[Fake Radar](https://github.com/BrisaAguayo/fake-radar)** — Spanish fake news detection system. Fine-tuned BETO (Spanish BERT) on a balanced dataset of 676 news articles. Built with PyTorch, HuggingFace Transformers and scikit-learn. Includes full EDA pipeline, confusion matrix and F1 evaluation.
-
-**High-fidelity prototypes @ More FM 98.9** — Building functional web prototypes for user testing in the creative department. Stack: Next.js, TypeScript, Tailwind CSS, GitHub + Vercel.
-
-**AuraDigital** — Landing page built for a real client. Digital products catalog connecting customers to Hotmart and Whop storefronts. Built with Next.js and Tailwind CSS, deployed on Vercel. *(deploy coming soon)*
-
----
-
 ## Experience
 
 **Web Developer** @ More FM 98.9 *(2026 – present)*
