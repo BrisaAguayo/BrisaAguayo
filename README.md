@@ -1,67 +1,39 @@
-# Hi, I'm Brisa 👋
+# Hi, I'm Bri 👋
 
-Web Developer from Tijuana, México 🇲🇽
+Full Stack Developer from Tijuana, México 🇲🇽
 Currently studying Computer Systems Engineering while working full-time in tech.
-Fueled by coffee, music and side projects
 
-I enjoy turning ideas into functional interfaces. I care about clean code, good user experience, and shipping things that actually work.
+I enjoy turning ideas into things people can actually use. I work across the full stack.
+My work also sits close to UI/UX, rapid prototyping and technical decision-making, 
+figuring out what's worth building and how it should behave before it becomes real.
+
+I like exploring, improving and shipping. Personal projects in progress, launching soon.
 
 ---
 
 ## Tech Stack
 
-**Frontend**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+**Languages**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
 **Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E699?style=flat&logo=neon&logoColor=black)
-![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=flat&logo=nextdotjs&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 
-**AI & Data Science**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-
-**Tools & Infrastructure**
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-
----
-
-## Experience
-
-**Web Developer** @ More FM 98.9 *(2026 – present)*
-Developing high-fidelity functional prototypes with Next.js, TypeScript and Tailwind CSS. Working in the creative department with user testing workflows and Vercel deployments.
-
----
-
-## Currently learning
-
-- Cloud deployment workflows with AWS and Vercel
-- UI/UX principles for frontend development
-- REST API design and backend architecture
-- Authentication and security best practices
-- Building and consuming third-party APIs
-- Database optimization and schema design
+**Frontend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 ---
 
 ## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/brisa-aguayo-b5a970327)
-
----
-
-
